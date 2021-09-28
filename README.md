@@ -1,5 +1,3 @@
-# Abey
-
 {
     "frames": {
         "exit-survey": {
